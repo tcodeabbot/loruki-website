@@ -75,6 +75,8 @@ img{
 
 .navbar a:hover {
   border-bottom: 2px solid #fff;
+  color: rgb(92, 69, 69);
+  transform: 1s;
 }
 
 .navbar .flex {
